@@ -51,8 +51,7 @@ Here's a glimpse into the project process:
 
 **3. Data Analysis & Visualization:** I utilized Excel's Pivot tables to analyze the data and calculate attrition rates. I explored relationships between different factors and represented them visually in an interactive manner.
 
-**4. Dashboard Design:** I designed an organized layout for the dashboard, arranging the visualizations to provide a clear overview of attrition insights. The dashboard allows for filtering based on gender, enabling focused analysis.
-
+**4. Dashboard Design:** I designed an organized layout for the dashboard, arranging the visualizations to provide a clear overview of attrition insights. 
 This HR Attrition Excel project provides valuable insights into attrition within an organization. By leveraging Excel's powerful features, I was able to uncover patterns and relationships that can inform decision-making and talent retention strategies.
 
 ![ATTEXCEL](https://user-images.githubusercontent.com/108068313/229381506-e338701f-9fb0-4d6a-a90c-b5d3e729370f.gif)
